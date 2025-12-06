@@ -11,8 +11,7 @@
 - [Deloitte Cyber Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_GHtsRkDZQZKHAoAyg_1752964269448_completion_certificate.pdf)
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="adaeze-igbokwe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/adaeze-igbokwe-a916a4353/)
 <a href="mailto:igbokwedaeze04@gmail.com">
   <img align="left" alt="adaeze-igbokwe | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-[<img align="left" alt="adaeze-igbokwe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/adaeze-igbokwe-a916a4353/)
-
