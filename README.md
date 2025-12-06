@@ -15,5 +15,5 @@
 [<img align="left" alt="adaeze-igbokwe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [gmail]: mailto:igbokweadaeze04@gmail.com
-[linkedin]: https://linkedin.com/in/adaeze-igbokwe
+[linkedin]: https://linkedin.com/in/adaeze-igbokwe-a916a4353/
 
