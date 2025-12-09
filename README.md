@@ -6,7 +6,7 @@
 <h2>📰 Certifications </h2>
 
 - [Google Cybersecurity Certification](https://www.credly.com/badges/1c859a67-e74e-4ab1-8491-1f4d08c701f6/public_url)
-- [Cisco - Introduction to Cybersecurity](https://www.credly.com/earner/earned/badge/17747a3e-4d3f-4049-ab1c-dc11ed554f0c)
+- [Cisco - Introduction to Cybersecurity](https://www.credly.com/badges/17747a3e-4d3f-4049-ab1c-dc11ed554f0c/public_url)
 - [Cloud Service Computing Micro-Certification](https://www.credly.com/badges/8bd8f1b0-f2b4-4167-a89f-067cc270a39a/public_url)
 - [Deloitte Cyber Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_GHtsRkDZQZKHAoAyg_1752964269448_completion_certificate.pdf)
 <h2> 🤳 Connect with me:</h2>
