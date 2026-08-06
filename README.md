@@ -1,7 +1,9 @@
-<h1>Hi, I'm Adaeze! <br/><a href="https://github.com/Ada045">IT & Cybersecurity Specialist</a>
+<h1>Hi, I'm Adaeze! <br/><a href="https://github.com/Ada045">Devops Engineer</a>
 <h2>👨‍💻 Projects:</h2>
 
-- [Custom Jenkins Image With Docker Pre-Installed](https://github.com/Ada045/JenkinsDockerImage)
+- [Custom Jenkins Image With Docker CLI Installed](https://github.com/Ada045/JenkinsDockerImage)
+- [Java Application CI/CD Pipeline with Jenkins, Docker & Maven](https://github.com/Ada045/jenkins-java-app-deployment)
+- [Jenkins Shared Library for CI/CD Pipeline Automation](https://github.com/Ada045/jenkins-shared-library)
 - [Cybersecurity Homelab Project: Azure-Based Honeypot System](https://github.com/Ada045/Honeypot-Project/tree/main)
 - [Active Directory Home Lab](https://github.com/Ada045/Active-Directory-Lab)
 <h2>📰 Certifications </h2>
