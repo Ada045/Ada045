@@ -4,6 +4,7 @@
 - [Custom Jenkins Image With Docker CLI Installed](https://github.com/Ada045/JenkinsDockerImage)
 - [Java Application CI/CD Pipeline with Jenkins, Docker & Maven](https://github.com/Ada045/jenkins-java-app-deployment)
 - [Jenkins Shared Library for CI/CD Pipeline Automation](https://github.com/Ada045/jenkins-shared-library)
+- [Production-Ready Rabbit LMS Deployment on AWS EKS(KUBERNETES)](https://github.com/Ada045/rabbit-aws-eks-project)
 - [Containerized MERN Sneakers E-Commerce Application Deployment on AWS EC2 with Docker Compose](https://github.com/Ada045/rabbit-aws-eks-project)
 - [Cybersecurity Homelab Project: Azure-Based Honeypot System](https://github.com/Ada045/Honeypot-Project/tree/main)
 - [Active Directory Home Lab](https://github.com/Ada045/Active-Directory-Lab)
